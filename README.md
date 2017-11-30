@@ -18,4 +18,8 @@
   * Polynomial regression model
   * Generalized boosting model
 
-* **Programming language/software**: R
+* **Programming language**: R
+
+* **File description**:
+
+    The file "main.R" contains all the analysis code for this project.
